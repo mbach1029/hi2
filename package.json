@@ -1,0 +1,9 @@
+{
+  "name": "hi2",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbach1029/hi2.git"
+  }
+}
